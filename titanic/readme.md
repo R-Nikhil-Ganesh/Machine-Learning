@@ -1,5 +1,4 @@
 # Titanic Dataset Analysis
----
 In this mini-project, I have analyzed the titanic dataset downloaded from kaggle and:
 + Performed feature engineering by deriving family size and is alone features.
 + Compared logistic regression and random forest classifier, both showed results with very negligible differences.
